@@ -1,0 +1,6 @@
+name: PluginNinja
+main: falkirks\ninja\PluginNinja
+author: Falkirks
+load: STARTUP
+version: 0.0.1 
+api: [1.8.0]
