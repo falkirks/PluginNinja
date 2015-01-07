@@ -25,7 +25,7 @@ Ever thought to yourself how silly installing a plugin? Have you ever read the s
 ### Source types
 Developers may add new source types, but it is recommended to use an existing one. The following types are built in
 
-* `NinjaAPI` **official repo type, includes ability to push updates**
+* `NinjaAPI` **official repo type**
 * `PocketMineForums` (extends `WebJSON`)
 * `GitHubDirectory` (extends WebDirectory)
 * `WebDirectory` (extends `LocalDirectory`)
