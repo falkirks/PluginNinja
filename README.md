@@ -4,7 +4,7 @@ PluginNinja
 
 **This project isn't yet in a working state.**
 
-Ever thought to yourself how silly installing a plugin? Have you ever read the supposedly **simple** installation instructions and though to yourself, these aren't that simple at all. You have to like...drag and drop something, that's pretty hard in the world of today. There is good news! Once you install PluginNinja, you will never have to manage plugins in such a boring way.
+Ever thought to yourself how silly installing a plugin is? Have you ever read the supposedly **simple** installation instructions and thought, these aren't simple at all. You have to like...drag and drop something, that's pretty hard in the world of today. There is good news! Once you install PluginNinja, you will never have to manage plugins in such a boring way again.
 
 ### Installing PluginNinja
 * Click on "Releases" and find the latest `.phar` file.
